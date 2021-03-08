@@ -3,8 +3,8 @@
 
 # Copyright (C) 2019  David Arroyo Menéndez
 
-# Author: David Arroyo Menéndez <davidam@gnu.org>
-# Maintainer: David Arroyo Menéndez <davidam@gnu.org>
+# Author: David Arroyo Menéndez <davidam@gmail.com>
+# Maintainer: David Arroyo Menéndez <davidam@gmail.com>
 
 # This file is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -43,7 +43,7 @@ setup(name='damephoto',
       scripts=['bin/damephoto.py'],
       url='http://github.com/davidam/damephoto',
       author='David Arroyo Menéndez',
-      author_email='davidam@gnu.org',
+      author_email='davidam@gmail.com',
       license='GPLv3',
       # packages=['damephoto', 'damephoto.tests'],
       # package_dir={'damephoto': 'damephoto', 'damephoto.tests': 'damephoto/tests', 'damephoto.bin': 'damephoto/bin'},
